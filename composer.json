@@ -1,0 +1,24 @@
+{
+    "name": "jslmariano/lumen-routes-list",
+    "license": "MIT",
+    "description": "Display the route list of Lumen",
+    "keywords": [
+        "lumen",
+        "route list"
+    ],
+    "authors": [
+        {
+            "name": "Josel mariano",
+            "email": "jslmariano@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Jslmariano\\LumenRoutesList\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
